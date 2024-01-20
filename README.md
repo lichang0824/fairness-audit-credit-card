@@ -3,4 +3,4 @@ A course project auditing the fairness aspects of a credit card system, to see w
 
 [Code](202_RDS_project_colab.ipynb) was run on Google Colab.
 
-A detailed report of this project can be found at [202 RDS project report.pdf](202_RDS_project_report.pdf)
+A detailed report of this project can be found at [202_RDS_project_report.pdf](202_RDS_project_report.pdf)
